@@ -1,4 +1,3 @@
-//c++ file
 #include <iostream>
 
 using namespace std;
