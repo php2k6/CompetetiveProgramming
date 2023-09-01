@@ -9,7 +9,7 @@ int main() {
   int c = 0, ans = 1;
   char l = 'A';
   for (char b: a) {
-    if (b == l) {
+    if (b==l) {
       c++;
       ans = max(c, ans);
 
